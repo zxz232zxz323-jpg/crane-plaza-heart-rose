@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "شركة الموج | دفتر الفواتير",
+      "hasCanvas": false,
+      "bodyTextLen": 55,
+      "bodyTextHash": "6e1cf390eb1f7c9d86714e63d73b421e11f99baa70807d59ec873d33c5e27038",
+      "bodyTextPrefix": "Al-Mawj Company دفتر فواتير شركة الموج جاري فتح الدفتر…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "شركة الموج | دفتر الفواتير",
+      "hasCanvas": false,
+      "bodyTextLen": 55,
+      "bodyTextHash": "6e1cf390eb1f7c9d86714e63d73b421e11f99baa70807d59ec873d33c5e27038",
+      "bodyTextPrefix": "Al-Mawj Company دفتر فواتير شركة الموج جاري فتح الدفتر…",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep)"
+      ],
+      "pageErrors": [
+        "Failed to fetch dynamically imported module: http://127.0.0.1:8080/node_modules/@tanstack/react-start/dist/plugin/default-entry/client.tsx"
+      ],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
